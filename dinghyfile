@@ -3,7 +3,7 @@
   "pipelines": [
      {
         "isNew": true,
-  "keepWaitingPipelines": false,
+        "keepWaitingPipelines": false,
   "lastModifiedBy": "german-muzquiz",
   "limitConcurrent": true,
   "parameterConfig": [],
