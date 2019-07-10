@@ -2,7 +2,7 @@
   "application": "dinghy1",
   "pipelines": [
      {
-  "isNew": true,
+        "isNew": true,
   "keepWaitingPipelines": false,
   "lastModifiedBy": "german-muzquiz",
   "limitConcurrent": true,
