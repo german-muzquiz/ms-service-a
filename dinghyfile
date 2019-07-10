@@ -10,7 +10,7 @@
         "limitConcurrent": true,
         "parameterConfig": [],
         "stages": [
-    {
+        {
       "failPipeline": true,
       "isNew": true,
       "judgmentInputs": [],
