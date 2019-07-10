@@ -2,6 +2,7 @@
   "application": "dinghy1",
   "pipelines": [
      {
+        "name": "dinghy-generated",
         "isNew": true,
         "keepWaitingPipelines": false,
         "lastModifiedBy": "german-muzquiz",
