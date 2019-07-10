@@ -1,0 +1,26 @@
+{
+  "application": "dinghy1",
+  "pipelines": [
+     {
+  "isNew": true,
+  "keepWaitingPipelines": false,
+  "lastModifiedBy": "german-muzquiz",
+  "limitConcurrent": true,
+  "parameterConfig": [],
+  "stages": [
+    {
+      "failPipeline": true,
+      "isNew": true,
+      "judgmentInputs": [],
+      "name": "Manual Judgment",
+      "notifications": [],
+      "refId": "1",
+      "requisiteStageRefIds": [],
+      "type": "manualJudgment"
+    }
+  ],
+  "triggers": [],
+  "updateTs": "1562773064000"
+}
+   ]
+}
