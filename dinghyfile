@@ -8,7 +8,7 @@
         "lastModifiedBy": "german-muzquiz",
         "limitConcurrent": true,
         "parameterConfig": [],
-  "stages": [
+        "stages": [
     {
       "failPipeline": true,
       "isNew": true,
