@@ -2,6 +2,7 @@
   "application": "dinghy1",
   "pipelines": [
      {
+        "application": "dinghy1",
         "name": "dinghy-generated",
         "isNew": true,
         "keepWaitingPipelines": false,
