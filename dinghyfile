@@ -7,7 +7,7 @@
         "keepWaitingPipelines": false,
         "lastModifiedBy": "german-muzquiz",
         "limitConcurrent": true,
-  "parameterConfig": [],
+        "parameterConfig": [],
   "stages": [
     {
       "failPipeline": true,
