@@ -5,7 +5,7 @@
         "isNew": true,
         "keepWaitingPipelines": false,
         "lastModifiedBy": "german-muzquiz",
-  "limitConcurrent": true,
+        "limitConcurrent": true,
   "parameterConfig": [],
   "stages": [
     {
