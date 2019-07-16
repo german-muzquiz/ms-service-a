@@ -3,7 +3,7 @@
   "pipelines": [
      {
         "application": "dinghy1",
-        "name": "dinghy-generated-2",
+        "name": "dinghy-generated-3",
         "isNew": true,
         "keepWaitingPipelines": false,
         "lastModifiedBy": "german-muzquiz",
